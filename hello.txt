@@ -14,4 +14,4 @@ hello hang ! hello git!
 hello hang ! hello git!
 hello hang ! hello git!
 hello hang ! hello git!
-hello hang ! hello git! master test
+hello hang ! hello git! master
